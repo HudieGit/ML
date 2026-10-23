@@ -1,0 +1,18 @@
+# Виртуальное окружение
+.venv/
+
+# Данные (vehicles.csv ~1.4 ГБ — больше лимита GitHub)
+data/
+*.csv
+*.zip
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Редакторы / ОС
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
